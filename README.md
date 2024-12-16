@@ -20,7 +20,7 @@ Program ini membaca data jumlah produksi sampah berdasarkan Kabupaten/Kota dari 
    
 ## Video Penjelasan
 Lihat penjelasan program melalui video berikut:
-[![Penjelasan Program](https://youtu.be/t8t9dZHpKTE)
+[![Penjelasan Program](https://youtu.be/t8t9dZHpKTE)]
 
 ## Hasil File
 Hasil yang dihasilkan oleh program:
